@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-washnwags.co	TRUE	/	FALSE	1999999999	_cfuvid	X23YFaehCBUXuWsEkUR48YTd7gWT.mgQpW1XZiZoXkc-1785794184.537543-1.0.1.1-ZoqZrAANSWup7_ZP81sEddZsL0LDo2Gl_rSfl5Ch6Po
-washnwags.co	TRUE	/	FALSE	1999999999	SameSite	None
-washnwags.co	TRUE	/	FALSE	1999999999	__cf_bm	WCFE4EWsBQ.T8Og1vBrKMPXnFDdCA4RL6c_5Y2d8zoA-1785794276.1681068-1.0.1.1-icxL.w1z7mF.1uo62D06xFlV.W48Zgsx3IGLYIVOmwai1UcC3znScq3awoIlTEaOfLIWssMACw_gtkg6VuUlUVlqrlSKQ9jeRIQPBDavLJybpX1KYzXsyLSuDtIuu0Xn
-
